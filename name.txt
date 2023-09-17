@@ -1,0 +1,6 @@
+Anna=4
+Elena=5
+Marina=6
+Vladimir=?
+Konstantin=?
+Ivan=4
